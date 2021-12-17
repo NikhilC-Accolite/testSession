@@ -1,0 +1,1 @@
+Inside file_1.txt -> this is line 1
