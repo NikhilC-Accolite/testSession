@@ -1,0 +1,1 @@
+Inside file_3.txt -> this is line 1
